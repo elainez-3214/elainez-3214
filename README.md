@@ -6,6 +6,11 @@ I'm a Computer Science student at Binghamton University interested in
 - 🤖 Machine Learning
 - 💻 Software Engineering
 
+## 🚀 Featured Projects
+
+### Adult Census Income Classification
+Compared Logistic Regression, KNN, Decision Trees, and Neural Networks for predicting income using past Adult Census dataset. The goal of the model is to help financial service providers decide if customers eligibility for loans and make the loan approval process more efficient and accessible. 
+
 ## 🌱 Currently Learning
 
 - Neural Networks
@@ -18,11 +23,6 @@ I'm a Computer Science student at Binghamton University interested in
 - Data Science: Pandas, NumPy, scikit-learn
 - Web Dev: HTML, CSS, JavaScript (basic), Node.js
 - Tools: Jupyter Notebooks, VSCode, IntelliJ, Git, GitHub
-
-## 🚀 Featured Projects
-
-### Adult Census Income Classification
-Compared Logistic Regression, KNN, Decision Trees, and Neural Networks for predicting income using the Adult Census dataset.
 
 ## 📫 Connect with me
 
