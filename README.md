@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Elaine
 
-<!--
-**elainez-3214/elainez-3214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Binghamton University interested in
+- 🤖 Machine Learning
+- 💻 Software Engineering
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Neural Networks
+- Large Language Models (LLMs)
+- Python and Data Science
+
+## 🛠️ Technologies
+
+- Python
+- Java
+- C++
+- SQL
+- Git
+- HTML/CSS
+
+## 🚀 Featured Projects
+
+### Receipt Information Extraction
+Used a large language model to extract structured information from receipt images and convert it into JSON.
+
+### Adult Census Income Classification
+Compared Logistic Regression, KNN, Decision Trees, and Neural Networks for predicting income using the Adult Census dataset.
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/your-link
